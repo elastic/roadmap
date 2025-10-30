@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-**What the feature is and who it’s for**
+**What the feature is (as Title)**
 
 **Value proposition**
 
-**Expected outcome / behaviors**
+**Expected outcome**
 
 **Optional: Key user stories / use cases**
