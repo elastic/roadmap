@@ -20,3 +20,9 @@ Understanding This Roadmap
 
 This roadmap is intended to communicate our current priorities and future direction.
 It is not a commitment, guarantee, or contract. Plans may change based on customer feedback and technical considerations.
+
+Feedback
+
+This roadmap is intended for visibility and prioritization feedback via reactions ( / ).
+If you would like to provide detailed feedback, ask questions, or contribute ideas related to a specific roadmap item, please open an issue in the relevant product repository (for example, kibana or elasticsearch)
+Please note that comments and discussions are not monitored on the roadmap itself.
