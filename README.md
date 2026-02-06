@@ -1,6 +1,6 @@
 # Elastic Public Roadmap
 
-Welcome to our product roadmap! We're excited to share a glimpse into what we're working on at Elastic and where we're headed. It is worth noting that this roadmap is a living document and is subject to change and often does, so please keep this in mind.
+Welcome to our product roadmap! We are excited to share a glimpse into what we are working on at Elastic and where we are headed. It is worth noting that this roadmap is a living document and is subject to change and often does, so please keep this in mind.
 
 
 ## 🔗 Quick Links
@@ -9,12 +9,12 @@ Welcome to our product roadmap! We're excited to share a glimpse into what we're
 🔍 [Search Roadmap](https://github.com/orgs/elastic/projects/2066/views/13)    
 📊 [Observability Roadmap](https://github.com/orgs/elastic/projects/2066/views/15)    
 🛡 [Security Roadmap](https://github.com/orgs/elastic/projects/2066/views/14)    
-⚙ [Platform Roadmap](https://github.com/orgs/elastic/projects/2066/views/17)    
+⚙ [platform Roadmap](https://github.com/orgs/elastic/projects/2066/views/17)    
 📋 [Overall Roadmap Table](https://github.com/orgs/elastic/projects/2066/views/1)    
 
 ## How to Use This Roadmap
 
-Use the tabs above to explore different product focus areas - Search, Observability, Security and platform. We update this board regularly so you can stay informed about our direction and priorities.
+Use the tabs above to explore different product focus areas - Search, Observability, Security and platform. We update this board regularly, so you can stay informed about our direction and priorities.
 
 ## Understanding This Roadmap
 
