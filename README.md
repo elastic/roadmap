@@ -5,12 +5,12 @@ Welcome to our product roadmap! We're excited to share a glimpse into what we're
 
 ## 🔗 Quick Links
 
-📅 Overall Roadmap  
-🔍 Search Roadmap  
-📊 Observability Roadmap  
-🛡 Security Roadmap  
-⚙ Platform Roadmap  
-📋 Overall Roadmap Table  
+📅 [Overall Roadmap](https://github.com/orgs/elastic/projects/2066/views/2)    
+🔍 [Search Roadmap](https://github.com/orgs/elastic/projects/2066/views/13)    
+📊 [Observability Roadmap](https://github.com/orgs/elastic/projects/2066/views/15)    
+🛡 [Security Roadmap](https://github.com/orgs/elastic/projects/2066/views/14)    
+⚙ [Platform Roadmap](https://github.com/orgs/elastic/projects/2066/views/17)    
+📋 [Overall Roadmap Table](https://github.com/orgs/elastic/projects/2066/views/1)    
 
 ## How to Use This Roadmap
 
