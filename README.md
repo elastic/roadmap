@@ -23,5 +23,5 @@ It is not a commitment, guarantee, or contract. Plans may change based on custom
 
 ## Feedback
 
-This roadmap is intended for visibility and prioritization. If you would like to provide detailed feedback, ask questions, or contribute ideas related to a specific roadmap item, please open an issue in the relevant product repository (for example, kibana or elasticsearch).
+The roadmap will capture and share information regarding planned launches, increasing visibility into upcoming features, capabilities, and enhancements. If you would like to provide detailed feedback, ask questions, or contribute ideas related to a specific roadmap item, please open an issue in the relevant product repository (for example, kibana or elasticsearch).
 Please note that comments and discussions are not monitored on the roadmap itself.
