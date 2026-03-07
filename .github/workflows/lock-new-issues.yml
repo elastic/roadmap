@@ -1,0 +1,20 @@
+name: Lock conversation on new issues
+on:
+  issues:
+    types: [opened]
+permissions:
+  issues: write
+jobs:
+  lock_issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lock the issue conversation
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          curl -sS -X PUT \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/lock"
